@@ -1,0 +1,34 @@
+{
+  "name": "cms",
+  "version": "0.1.0",
+  "description": "tutorial of a cms name keystone https://keystonejs.com/getting-started/setting-up/part-1/ ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allauren/CMS_tutorial.git"
+  },
+  "keywords": [
+    "#CMS",
+    "#tutorial"
+  ],
+  "author": "allauren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allauren/CMS_tutorial/issues"
+  },
+  "homepage": "https://github.com/allauren/CMS_tutorial#readme",
+  "dependencies": {
+    "keystone": "^4.0.0",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
